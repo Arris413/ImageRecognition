@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+.Capture{
+    color: chocolate;
+}
+.identify{
+    color:fuchsia;
+}
+.Accuracy{
+    color: gold;
+}
+.object{
+    color:maroon;
+}
